@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    transition: all 0.55s ease-in;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+/* html {
+    font-size: 62.5%;
+
+}
+
+@media (max-width:922px) {
+    html {
+        font-size: 55%;
+    }
+}
+
+@media (max-width:400px) {
+    html {
+        font-size: 50%;
+    }
+} */
